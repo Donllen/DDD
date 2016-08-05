@@ -1,0 +1,9 @@
+ 1.下载sqlite3.exe   
+
+2.找到你项目的.svn文件，查看是否存在wc.db
+
+3.将sqlite3.exe放到.svn的同级目录
+
+4.启动cmd执行sqlite3 .svn/wc.db "select * from work_queue"
+
+5.看到很多记录，下一步执行delete from work_queue

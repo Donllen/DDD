@@ -1,0 +1,20 @@
+﻿DynamicDataDisplay
+
+
+library
+C#
+.cs
+D:\CHAHO\DynamicDataDisplay-master\src\DynamicDataDisplay\obj\Release\
+Microsoft.Research.DynamicDataDisplay
+none
+false
+TRACE;CODE_ANALYSIS
+
+15-1584159267
+
+367272991772
+10-1634877910
+Charts\Isolines\FastIsolineDisplay.xaml;Charts\Isolines\IsolineTrackingGraph.xaml;Charts\Legend items\LegendResources.xaml;Charts\Legend.xaml;Charts\LineLegendItem.xaml;Charts\Axes\AxisControlStyle.xaml;Charts\Navigation\AboutWindow.xaml;Charts\Navigation\LongOperationsIndicatorResources.xaml;Charts\Navigation\SimpleNavigationBar.xaml;Charts\Navigation\CursorCoordinateGraph.xaml;Charts\Shapes\DraggablePoint.xaml;Charts\Shapes\RangeHighlightStyle.xaml;Common\PlotterStyle.xaml;Charts\MagnifyingGlass.xaml;Themes\Generic.xaml;
+
+True
+
